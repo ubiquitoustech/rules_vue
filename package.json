@@ -1,0 +1,11 @@
+{
+  "name": "@ubiquitoustech/rules_vue",
+  "version": "NPM_VERSION",
+  "description": "vue rules for bazel",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ubiquitoustech/rules_vue.git"
+  },
+  "author": "dymart",
+  "license": "Apache-2.0"
+}
