@@ -16,5 +16,5 @@ try-import %workspace%/.bazelrc.user
 
 
 
-build --deleted_packages=examples/with-next-css,examples/basic-css
-query --deleted_packages=examples/with-next-css,examples/basic-css
+build --deleted_packages=examples/hello-world
+query --deleted_packages=examples/hello-world

@@ -5,7 +5,7 @@ filegroup(
         "*.bazel",
         "*.sh",
     ]),
-    visibility = ["//@vue/cli-service/bin/vue-cli-service.js:__pkg__"],
+    visibility = ["//vue:__pkg__"],
 )
 
 exports_files(["launcher_template.sh"])

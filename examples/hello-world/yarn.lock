@@ -1139,6 +1139,11 @@
     anymatch "^3.0.0"
     source-map "^0.6.0"
 
+"@ubiquitoustech/rules_vue@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@ubiquitoustech/rules_vue/-/rules_vue-0.1.0.tgz#cee8aa0475da7f641bd407bac45e85ff4b970b61"
+  integrity sha512-8AHWVSikebS71NIhYjAdMtERqBr2YlN3gThF5G8Zu7fGNYr7eR5bFwcXKByqwonNAbJ5xmOVe85UjMTGAEJEYA==
+
 "@vue/babel-helper-vue-jsx-merge-props@^1.2.1":
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/@vue/babel-helper-vue-jsx-merge-props/-/babel-helper-vue-jsx-merge-props-1.2.1.tgz#31624a7a505fb14da1d58023725a4c5f270e6a81"

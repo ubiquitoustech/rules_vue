@@ -2,11 +2,5 @@ node_modules
 dist
 bazel-out
 # is there a better way to deal with these example repos making bazel build ... to fail from the parent workspace?
-examples/with-next-css/node_modules
-examples/with-next-css/dist
-examples/with-next-css/external
-
-examples/with-next-css,examples/basic-css
-
-examples/basic-css/node_modules
-examples/basic-css/dist
+examples/hello-world/node_modules
+examples/hello-world/dist

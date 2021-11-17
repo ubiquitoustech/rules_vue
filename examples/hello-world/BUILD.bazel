@@ -1,15 +1,15 @@
+# load(
+#     "@ubiquitous_tech_rules_vue//vue:defs.bzl",
+#     "vue",
+#     "vue_dev",
+# )
+
+# this uses the npm package
 load(
-    "@ubiquitous_tech_rules_vue//vue:defs.bzl",
+    "@npm//@ubiquitoustech/rules_vue:index.bzl",
     "vue",
     "vue_dev",
 )
-
-# this uses the npm package
-# load(
-#     "@npm//@ubiquitoustech/rules_nextjs:index.bzl",
-#     "nextjs",
-#     "nextjs_dev",
-# )
 
 vue(
     name = "prod",
